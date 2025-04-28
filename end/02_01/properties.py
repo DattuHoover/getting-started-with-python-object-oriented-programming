@@ -12,7 +12,3 @@ class Rectangle:
 new_rectangle = Rectangle(12, 10)
 print(new_rectangle.base)
 print(new_rectangle.height)
-
-new_rectangle.base = 5
-print()
-print(new_rectangle.base)
